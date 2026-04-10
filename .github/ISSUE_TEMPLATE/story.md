@@ -12,9 +12,9 @@ assignees: ''
 ## Background
 
 ## Tasks
-- 1.
-- 2.
-- 3. 
+1. 
+2.
+3.
 
 ## Acceptance Criteria
 - [ ]
